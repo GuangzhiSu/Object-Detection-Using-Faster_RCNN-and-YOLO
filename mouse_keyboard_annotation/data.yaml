@@ -1,6 +1,0 @@
-names:
-  0: keyboard
-  1: mouse
-  2: laptop
-path: .
-train: train.txt
