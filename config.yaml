@@ -1,9 +1,0 @@
-path: /home/gs285/AIPI_HW/yolo_data
-train: ./images
-val: ./images
-
-
-names:
-  0: keyboard
-  1: mouse
-  2: laptop
