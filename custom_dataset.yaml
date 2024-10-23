@@ -1,0 +1,7 @@
+# custom_dataset.yaml
+
+train: yolo_data_split/images/train  # Path to training images
+val: yolo_data_split/images/val  # Path to validation images
+
+nc: 4  # Number of classes
+names: ["laptop", "mouse", "keyboard", "utensils"]  # Class names
